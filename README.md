@@ -36,7 +36,7 @@ transmission over the Internet, or method of electronic storage, is 100% secure.
 use commercially acceptable means to protect your Personal Information, we cannot guarantee its
 absolute security.
 Changes To This Privacy Policy
-This Privacy Policy is effective as of (add date) and will remain in effect except with respect to any
+This Privacy Policy is effective as of (January 25, 2022) and will remain in effect except with respect to any
 changes in its provisions in the future, which will be in effect immediately after being posted on this
 page.
 We reserve the right to update or change our Privacy Policy at any time and you should check this
